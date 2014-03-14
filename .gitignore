@@ -13,13 +13,11 @@
 *.sw?
 *~
 bin
+build
 gen
-out
-tmp
 local.properties
-/*/local.properties
-/*/out
-/*/*/build
-/*/*/production
+out
+production
+tmp
 
 !.idea/gradle.xml
